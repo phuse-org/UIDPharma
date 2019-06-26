@@ -1,14 +1,11 @@
-# UIDPharma
-**Unique Identifiers for the Pharmaceutical Industry** is a subproject of "Going Translational With Linked Data ( [GoTWLD](<https://github.com/phuse-org/CTDasRDF>) )"
 
+--- ***NOTE: DRAFT under heavy revision *** ---
 
 # Prologue
 This is a working draft proposal for creation, management, and use of Uniform Resource
-Identifiers (URIs) for entities in clinical trials. The work was inspired by the
+Identifiers (URIs) for clinical trial identification. The work was inspired by the
 PhUSE EUConnect18 paper "Study URI" [[Paper]](http://www.phusewiki.org/docs/Frankfut%20Connect%202018/TT/Papers/TT10-tt09-study-uri-19746.pdf) [[Presentation]](http://www.phusewiki.org/docs/Frankfut%20Connect%202018/TT/Presentations/TT10-tt09-study-uri-pub-19747.pdf) by Kerstin Forsberg
 and Daniel Goude. These recommendations are under development and subject to change.
-
-The discussion on this page currently focuses on the concept of creating unique identifiers for clinical trials (Study URIs). Following a team meeting on 20-19-04-11, the scope will broaden to identifiers for additional entities. 
 
 You may contribute to this project by branching the Github repository. Please
 send comments and feedback by raising a Github *issue*. Open questions for team meetings are [here](StudyURI-questions.md)
