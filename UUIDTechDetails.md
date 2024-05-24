@@ -54,7 +54,7 @@ Create a program that:
 Example R Code:
 
 ```
-# Create Study URI from rogrammatically generated UUID
+# Create Study URI from programmatically generated UUID
 
 library(uuid)
 
